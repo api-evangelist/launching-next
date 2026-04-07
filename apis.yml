@@ -1,21 +1,20 @@
 aid: launching-next
 name: Launching Next
 description: >-
-  Launching Next is a startup discovery and submission platform that publishes
-  daily listings of new and trending tech startups and side projects worldwide.
-  Founded as a long-running startup directory, the platform has featured over
-  45,000 startups and side projects, making it a go-to resource for founders,
-  investors, and early adopters looking to discover what is being built next.
-  Entrepreneurs can submit their startups for free, with an optional paid
-  fast-track review. The platform also distributes a weekly newsletter to
-  thousands of founders, highlighting top startups shaping the future.
+  Launching Next is a startup discovery and submission platform that publishes daily
+  listings of new and trending tech startups and side projects worldwide. Founded
+  as a long-running startup directory, the platform has featured over 45,000 startups
+  and side projects, making it a go-to resource for founders, investors, and early
+  adopters looking to discover what is being built next. Entrepreneurs can submit
+  their startups for free, with an optional paid fast-track review.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Startups
   - Product Launch
   - Discovery
-url: https://raw.githubusercontent.com/api-evangelist/launching-next/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/launching-next/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-03-24'
 specificationVersion: '0.19'
