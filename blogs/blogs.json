@@ -1,0 +1,14 @@
+{
+  "repo": "launching-next",
+  "feeds": [
+    {
+      "source": "https://www.launchingnext.com/feed/",
+      "feed_url": "https://www.launchingnext.com/feed/",
+      "title": "Launching Next RSS Feed",
+      "saved": 0,
+      "note": "HTTP 403 - blocked by Cloudflare bot challenge ('Just a moment...'); feed and homepage both unreachable"
+    }
+  ],
+  "fetched": "2026-06-21T17:00:00Z",
+  "post_count": 0
+}
