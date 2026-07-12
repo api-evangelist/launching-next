@@ -39,6 +39,8 @@ apis:
       - type: RSSFeed
         url: https://www.launchingnext.com/feed/
 common:
+  - type: DomainSecurity
+    url: security/launching-next-domain-security.yml
   - url: https://www.launchingnext.com/
     name: Launching Next Website
     type: Website
