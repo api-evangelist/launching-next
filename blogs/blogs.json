@@ -6,9 +6,10 @@
       "feed_url": "https://www.launchingnext.com/feed/",
       "title": "Launching Next RSS Feed",
       "saved": 0,
-      "note": "HTTP 403 - blocked by Cloudflare bot challenge ('Just a moment...'); feed and homepage both unreachable"
+      "note": "HTTP 403 - blocked by Cloudflare bot challenge; feed and homepage still unreachable",
+      "error": "parse_failed"
     }
   ],
-  "fetched": "2026-06-21T17:00:00Z",
+  "fetched": "2026-07-11T11:43:46Z",
   "post_count": 0
 }
