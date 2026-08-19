@@ -28,7 +28,7 @@ tags:
 url: https://raw.githubusercontent.com/api-evangelist/launching-next/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: launching-next:rss-feed
     name: Launching Next RSS Feed
