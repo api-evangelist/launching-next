@@ -50,7 +50,6 @@ apis:
       published, enabling integration with feed readers, monitoring tools, and
       custom startup discovery workflows.
     humanURL: https://www.launchingnext.com/
-    baseURL: https://www.launchingnext.com
     tags:
       - Feed
       - RSS
